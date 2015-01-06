@@ -9,3 +9,7 @@ First add the specific file you'd like to log a commit for. Then run git commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you were attempting to add a new feature or attempting to improve the program using two different methods. The branches would help seperate each possible path.
+
+How do the diagrams help you visualize the branch structure?
+
+They show parents, heads, and branches. It might be hard to keep track of mentally.
