@@ -17,3 +17,7 @@ They show parents, heads, and branches. It might be hard to keep track of mental
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We combine paths and include changes of implemented in alternate commits. The diagram is represented as such because the two paths remain completely independent until merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It can be confusing to keep track of when a merge is appropriate. Automating this system allows merging to follow a set of rules.
