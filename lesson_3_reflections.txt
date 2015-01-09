@@ -13,3 +13,7 @@ A clone is a copy of an entire repository including all commits along the way. A
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It helps ensure that you aren't creating potential conflicts with any changes you make.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Almost everything would be harder. Everything would have to be hand written or manually logged. 
